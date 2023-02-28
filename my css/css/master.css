@@ -1,0 +1,41 @@
+p {
+    color: rebeccapurple;
+    font-size: larger;
+
+}
+
+div {
+    background-color: aqua;
+    /* background-image: url(../photo_2022-09-29_22-44-47.jpg);*/
+    background-size: 50% 40%;
+    padding: auto;
+    display: block;
+}
+
+.a {
+    border-bottom: 2px solid red;
+    background-color: aliceblue;
+}
+
+.b {
+    border-bottom: 2px solid yellow;
+    background-color: aliceblue;
+}
+
+.c {
+    border-bottom: 2px solid seagreen;
+    background-color: aliceblue;
+}
+
+.d {
+    border-bottom: 2px solid purple;
+    background-color: aliceblue;
+}
+
+.a,
+.b,
+.c,
+.d {
+    padding: 10px;
+    margin: 5px;
+}
